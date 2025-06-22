@@ -1,0 +1,15 @@
+# Ignore Microsoft Office temporary files
+~$*
+
+# Ignore other common temp/system files
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore build and IDE folders (optional)
+bin/
+obj/
