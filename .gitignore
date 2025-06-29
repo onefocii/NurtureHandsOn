@@ -1,5 +1,6 @@
 # Ignore Microsoft Office temporary files
 ~$*
+~.docx
 
 # Ignore other common temp/system files
 *.tmp
